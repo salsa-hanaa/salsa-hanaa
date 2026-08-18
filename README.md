@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://my.spline.design/f3e677bb-7332-4d4c-ab5f-e433718e9f3f" target="_blank" title="Click to interact with 3D Look At Cursor!">
-    <img src="https://raw.githubusercontent.com/salsa-hanaa/salsa-hanaa/main/assets/3d-preview.gif" width="450" alt="3D Spline Interactive Preview" />
+  <a href="https://my.spline.design/girlflowerscopy-YPa3fsdcDvadVa8LPQRhxcsw/" target="_blank" title="🖱️ Click to open 3D interactive 'Look At Cursor' mode!">
+    <img src="https://raw.githubusercontent.com/salsa-hanaa/salsa-hanaa/main/assets/3d-static.png" width="450" alt="Salsabila 3D Model" />
   </a>
   <br>
-  <sub>✨ <b>Click the 3D animation above to open interactive 'Look At Cursor' mode!</b> ✨</sub>
+  <sub>✨ <b>🖱️ Click the 3D model above to open full interactive 'Look At Cursor' mode!</b> ✨</sub>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salsa-hanaa&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=salsa-hanaa&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 ---
