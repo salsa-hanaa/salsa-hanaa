@@ -13,9 +13,8 @@
   <sub>✨ <b>🖱️ <a href="https://my.spline.design/girlflowerscopy-YPa3fsdcDvadVa8LPQRhxcsw/" target="_blank">Click here to open full interactive 'Look At Cursor' mode!</a></b> ✨</sub>
 </p>
 
-<!-- Card Stats & Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=salsa-hanaa&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=salsa-hanaa&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 ---
