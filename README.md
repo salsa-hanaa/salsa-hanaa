@@ -18,6 +18,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=salsa-hanaa&theme=tokyonight&hide_border=false" height="150" alt="streak graph" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=salsa-hanaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salsa-hanaa&theme=tokyonight&hide_border=false" height="150" alt="streak graph" />
+</div>
+
 ---
 
 ### 🛠️ Languages and Tools
