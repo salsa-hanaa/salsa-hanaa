@@ -6,13 +6,14 @@
 </p>
 
 <p align="center">
-  <a href="https://my.spline.design/girlflowerscopy-YPa3fsdcDvadVa8LPQRhxcsw/" target="_blank" title="🖱️ Click to open 3D interactive 'Look At Cursor' mode!">
-    <img src="https://raw.githubusercontent.com/salsa-hanaa/salsa-hanaa/main/assets/3d-static.png" width="450" alt="Salsabila 3D Model" />
+  <a href="https://my.spline.design/girlflowerscopy-YPa3fsdcDvadVa8LPQRhxcsw/" target="_blank">
+    <img src="https://raw.githubusercontent.com/salsa-hanaa/salsa-hanaa/main/assets/3d-animation.gif" width="450" alt="Salsabila 3D Animation" />
   </a>
   <br>
-  <sub>✨ <b>🖱️ Click the 3D model above to open full interactive 'Look At Cursor' mode!</b> ✨</sub>
+  <sub>✨ <b>🖱️ <a href="https://my.spline.design/girlflowerscopy-YPa3fsdcDvadVa8LPQRhxcsw/" target="_blank">Click here to open full interactive 'Look At Cursor' mode!</a></b> ✨</sub>
 </p>
 
+<!-- Card Stats & Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=salsa-hanaa&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
 </p>
@@ -58,7 +59,7 @@
 
 ---
 
-### 👾 Contribution Eating Snake / Pacman
+### 👾 Contribution Eating Snake 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/salsa-hanaa/salsa-hanaa/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
